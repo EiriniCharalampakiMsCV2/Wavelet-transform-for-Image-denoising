@@ -1,1 +1,2 @@
 # Wavelet-trasform-for-Image-denoising
+The purpose of this project is to investigate the wavelet transform and its application to image denoising. We will build a Matlab program for downsampling, filtering, computation of the high pass-filter and low pass filter. Our function will take the input image Lena, the number of levels J, here we wish to compute 2 Levels and the analysis low- pass filter. Furthermore, we will compute the inverse J-Level wavelet transform and our output will be the reconstructed image from the input coefficients.
